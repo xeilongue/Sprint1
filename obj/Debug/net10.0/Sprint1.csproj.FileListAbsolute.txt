@@ -1,0 +1,14 @@
+C:\Users\232.930847\source\repos\Sprint1\Sprint1\bin\Debug\net10.0\Sprint1.exe
+C:\Users\232.930847\source\repos\Sprint1\Sprint1\bin\Debug\net10.0\Sprint1.deps.json
+C:\Users\232.930847\source\repos\Sprint1\Sprint1\bin\Debug\net10.0\Sprint1.runtimeconfig.json
+C:\Users\232.930847\source\repos\Sprint1\Sprint1\bin\Debug\net10.0\Sprint1.dll
+C:\Users\232.930847\source\repos\Sprint1\Sprint1\bin\Debug\net10.0\Sprint1.pdb
+C:\Users\232.930847\source\repos\Sprint1\Sprint1\obj\Debug\net10.0\Sprint1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\232.930847\source\repos\Sprint1\Sprint1\obj\Debug\net10.0\Sprint1.AssemblyInfoInputs.cache
+C:\Users\232.930847\source\repos\Sprint1\Sprint1\obj\Debug\net10.0\Sprint1.AssemblyInfo.cs
+C:\Users\232.930847\source\repos\Sprint1\Sprint1\obj\Debug\net10.0\Sprint1.csproj.CoreCompileInputs.cache
+C:\Users\232.930847\source\repos\Sprint1\Sprint1\obj\Debug\net10.0\Sprint1.dll
+C:\Users\232.930847\source\repos\Sprint1\Sprint1\obj\Debug\net10.0\refint\Sprint1.dll
+C:\Users\232.930847\source\repos\Sprint1\Sprint1\obj\Debug\net10.0\Sprint1.pdb
+C:\Users\232.930847\source\repos\Sprint1\Sprint1\obj\Debug\net10.0\Sprint1.genruntimeconfig.cache
+C:\Users\232.930847\source\repos\Sprint1\Sprint1\obj\Debug\net10.0\ref\Sprint1.dll
